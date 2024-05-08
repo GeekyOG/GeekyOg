@@ -30,7 +30,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a <b>full stack web application develope</b>」
+    「 I am a <b>full stack web application developer</b>」
     <br>
     <br>
   </samp>
