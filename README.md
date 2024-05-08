@@ -30,7 +30,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a <b>full stack web application developer</b>」
+    「 I am a full stack web application developer 」
     <br>
     <br>
   </samp>
@@ -67,7 +67,7 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: oghomenag@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/geekyog/geekyogee/issues)
+ 💬 &emsp; Ask me about anything [here](https://github.com/geekyog/issues)
 
 </p>
 
@@ -131,4 +131,4 @@
 </a>
 
 
-![GeeKY Og's](https://github-readme-activity-graph.vercel.app/graph?username=geekyog&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![GeeKY Og's](https://github-readme-activity-graph.vercel.app/graph?username=geekyog&custom_title=Geeky%Og's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
