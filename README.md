@@ -38,7 +38,7 @@
 
 <p align="center">
  <a href="https://geekyogee.com" target="blank">
-  <img src="https://geekyogee.com/static/media/me-about.cacbeaf3b4861f6eaec5.png" alt="geekyogee" />
+  <!-- <img src="https://geekyogee.com/static/media/me-about.cacbeaf3b4861f6eaec5.png" alt="geekyogee" /> -->
  </a>
  <a href="https://www.linkedin.com/in/onojuvwevwo-oghomena-984654207/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="geekyogee"/>
