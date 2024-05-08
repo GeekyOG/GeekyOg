@@ -12,4 +12,4 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: ...
 - ⚡ Fun fact: I am 6.2 ft and I love basketball
   
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
