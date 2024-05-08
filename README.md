@@ -7,7 +7,7 @@
 
 <!--
 <p align="center">
-  <a href="https://github.com/geekyogee"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/geekyog"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
  -->
@@ -67,7 +67,7 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: oghomenag@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/geekyogee/geekyogee/issues)
+ 💬 &emsp; Ask me about anything [here](https://github.com/geekyog/geekyogee/issues)
 
 </p>
 
@@ -99,13 +99,13 @@
 <br/>
 
 <!-- ## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=geekyogee&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/geekyogee/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=geekyogee&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/geekyogee/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=geekyogee&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/geekyogee/web-projects)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=geekyogee&repo=geekyogee&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/geekyogee/geekyogee) -->
+[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=geekyogee&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/geekyog/itasks)
+[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=geekyogee&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/geekyog/urfolio)
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=geekyogee&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/geekyog/web-projects)
+[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=geekyogee&repo=geekyogee&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/geekyog/geekyogee) -->
 
 <p align="left">
-  <a href="https://github.com/geekyogee?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/geekyog?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -113,20 +113,20 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/geekyogee">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=geekyogee&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  <a href="https://github.com/geekyog">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=geekyOg&theme=radical&border=7F3FBF&background=0D1117" alt="GeekyOg GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/geekyogee">
+  <a href="https://github.com/geekyog">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geekyogee&theme=radical" alt="Al Siam's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/geekyogee"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=geekyogee&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/geekyogee"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=geekyogee&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/geekyog"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=geekyogee&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/geekyog"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=geekyogee&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
