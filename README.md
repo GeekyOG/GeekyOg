@@ -17,7 +17,6 @@
 </a>
 
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
 <!-- Intro  -->
 <h3 align="center">
@@ -62,7 +61,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="https://geekyogee.com/static/media/design.43da9a975d5cf9506242.png" alt="Coding gif" />
+
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
@@ -113,22 +112,22 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/geekyog">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=geekyOg&theme=radical&border=7F3FBF&background=0D1117" alt="GeekyOg GitHub streak"/>
-  </a>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GeekyOG" alt="GitHub Streak" /></a>
 </p>
 
+
+
 <p align="center">
-  <a href="https://github.com/geekyog">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geekyog&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  <a href="https://github.com/GeekyOg">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GeekyOg&theme=radical" alt="Al Siam's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
     <!-- <a href="https://github.com/geekyog"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=geekyog&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a> -->
-  <a href="https://github.com/geekyog"  align="center"><img alt="Geeky Og's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=geekyog&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/GeekyOg"  align="center"><img alt="Geeky Og's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=GeekyOg&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![GeeKY Og's](https://github-readme-activity-graph.vercel.app/graph?username=geekyog&custom_title=Geeky%Og's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![GeeKY Og's](https://github-readme-activity-graph.vercel.app/graph?username=GeekyOg&custom_title=Geeky%Og's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
